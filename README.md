@@ -1,5 +1,5 @@
 
-# Net-API
+# Net-API (UNFINISHED)
 
 Net-API is a **Minecraft** plugin made to sync Minecraft servers using **MySQL**.
 ## Information
