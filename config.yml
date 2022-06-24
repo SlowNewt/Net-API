@@ -1,0 +1,9 @@
+sql:
+   serverid: null
+   enabled: true
+   host: localhost
+   port: 3306
+   database: uwu
+   username: uwu
+   password: uwu
+   tableprefix: test1_

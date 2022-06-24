@@ -1,0 +1,17 @@
+name: NetAPI
+main: net.slownewt.core.Main
+version: DEV-0.1.0
+author: SlowNewt
+prefix: NetAPI
+website: youtube.com/slownewt
+load: STARTUP
+commands:
+   admin:
+      aliases:
+      - administration
+      - networkadmin
+      - networkadministration
+      - admininfo
+      - network
+      - a
+      description: Main command for manageing the network!
